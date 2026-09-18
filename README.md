@@ -62,7 +62,7 @@ Below is a comparative matrix of commercial platforms, sorted by **Company Size 
 
 Open-source tools center on mathematical optimization (MILP/LP solvers), graph analytics, discrete-event simulation, and geospatial data processing.
 
-Below are top open-source projects, sorted by **GitHub Star Count (Descending)**:
+Below are top open-source projects, sorted by **GitHub Stars_Count (Descending)**:
 
 1. **[Google OR-Tools](https://github.com/google/or-tools)** [![Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers) 🛠️  
    Fast, portable software suite for combinatorial optimization problems including vehicle routing (VRP), facility location, flow networks, and integer programming (MILP).
